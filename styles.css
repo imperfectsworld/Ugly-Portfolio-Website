@@ -1,0 +1,60 @@
+a {
+    padding: 0 40px;
+    border-radius: 25;
+    border-color: whitesmoke;
+    
+    color: white;
+}
+
+nav {
+    text-align: right;
+    background-color: black;
+    border-style: groove;
+    
+    
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+p {
+    color: wheat;
+    font-size: 2em;
+    padding: 50px;
+}
+.centerImage {
+    text-align: center;
+}
+h2 {
+    color: wheat;
+    text-align: center;
+    font-size: 3em;
+    
+}
+.roundImage{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    
+}
+footer {
+    text-align: center;
+    border-style:ridge;
+    border-color: aliceblue;
+}
+
+.squareImage {
+    width: 300px;
+    height: 300px;
+    text-align: center;
+
+}
+.align{
+    
+    color: rgb(255, 251, 0);
+}
